@@ -1,0 +1,93 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info-8.0+.plist
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h.nib/objects-8.0+.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h.nib/runtime.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw.nib/objects-8.0+.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw.nib/runtime.nib
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-568h@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-Portrait.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-Portrait@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-60@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-60@3x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-76.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-76@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small@3x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40@2x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40@3x.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.dll.mdb
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info-8.0+.plist
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h.nib/objects-8.0+.nib
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h.nib/runtime.nib
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw.nib/objects-8.0+.nib
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw.nib/runtime.nib
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-568h@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-Portrait.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-Portrait@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-60@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-60@3x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-76.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-76@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small@3x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40@2x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40@3x.png
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe.mdb
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe.mdb
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.dll.mdb
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info-8.0+.plist
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h.nib/objects-8.0+.nib
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h.nib/runtime.nib
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw.nib/objects-8.0+.nib
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw.nib/runtime.nib
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-568h@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-Portrait.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Default-Portrait@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-60@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-60@3x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-76.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-76@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small@3x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40@2x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/Icon-Small-40@3x.png
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe.mdb
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/obj/iPhoneSimulator/Debug/ListViewCellXamarinForms.iOS.exe.mdb
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/iOS/bin/iPhoneSimulator/Debug/ListViewCellXamarinForms.dll.mdb

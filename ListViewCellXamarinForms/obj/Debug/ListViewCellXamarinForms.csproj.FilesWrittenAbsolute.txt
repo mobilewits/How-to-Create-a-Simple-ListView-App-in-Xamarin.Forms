@@ -1,0 +1,21 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/ListViewCellXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/ListViewCellXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/ListViewCellXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/ListViewCellXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/ListViewCellXamarinForms.dll.mdb
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/ListViewCellXamarinForms.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/ListViewCellXamarinForms.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/ListViewCellXamarinForms.dll.mdb
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Harry/Desktop/dhaval/Bhautik/Tutorials_Xamarin/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/ListViewCellXamarinForms.dll.mdb
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/ListViewCellXamarinForms.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/ListViewCellXamarinForms.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/obj/Debug/ListViewCellXamarinForms.dll.mdb
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/ListViewCellXamarinForms/ListViewCellXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
